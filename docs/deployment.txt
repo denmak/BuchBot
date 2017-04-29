@@ -5,3 +5,15 @@ pip install apiclient
 pip install oauth2client
 pip install httplib2
 
+https://help.pythonanywhere.com/pages/Virtualenvs
+https://www.pythonanywhere.com/user/denmak/consoles/5153221/
+/home/denmak/.virtualenvs/myvirtualenv/bin/python
+
+I found it's more easy to set "PYTHONPATH" enviroment variable to the top folder:
+
+bash$ export PYTHONPATH=/PATH/TO/APP
+then:
+
+import sub1.func1
+#...more import
+of course, PYTHONPATH is "global", but it didn't raise trouble for me yet.
