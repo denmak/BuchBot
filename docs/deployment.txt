@@ -1,0 +1,7 @@
+pip install pyTelegramBotAPI
+pip install --upgrade google-api-python-client
+conda install apiclient
+pip install apiclient
+pip install oauth2client
+pip install httplib2
+
