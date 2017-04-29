@@ -5,8 +5,7 @@ import time
 import httplib2
 import os
 
-
-#from apiclient import discovery
+from apiclient import discovery
 from oauth2client import client
 from oauth2client import tools
 from oauth2client.file import Storage
@@ -60,7 +59,6 @@ def read_cell_spreadsheet(rangeName):
 	if not values:
 		print('No data found.')
 	else:
-		print('Name, Major:')
 		for row in values:
 			# Print columns A and E, which correspond to indices 0 and 4.
 			print('%s' % (row[0]))
