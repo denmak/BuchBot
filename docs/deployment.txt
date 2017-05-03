@@ -17,3 +17,18 @@ then:
 import sub1.func1
 #...more import
 of course, PYTHONPATH is "global", but it didn't raise trouble for me yet.
+
+
+
+git clone ssh://5904f6e57628e14cb3000166@buchbot-denmak.rhcloud.com/~/git/buchbot.git/
+cd buchbot/
+
+git add .
+git commit -m 'My changes'
+git push
+
+
+To clone the sample application so that you have a local version of the code that you can then deploy to Heroku, execute the following commands in your local command shell or terminal:
+$ git clone https://github.com/heroku/python-getting-started.git
+$ cd python-getting-started
+You now have a functioning git repository that contains a simple application as well as a requirements.txt file, which is used by Python’s dependency manager, Pip.
