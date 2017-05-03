@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d78d62ee-701d-4316-94d0-8aa11745b244" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/client_secret_220360779726-9udn1qo31ie4096mbtg4k0hojog8llil.apps.googleusercontent.com.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/main/client_secret_220360779726-9udn1qo31ie4096mbtg4k0hojog8llil.apps.googleusercontent.com.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/docs/deployment.txt" afterPath="$PROJECT_DIR$/docs/deployment.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,11 +29,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="config.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config/config.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="client_secret_220360779726-9udn1qo31ie4096mbtg4k0hojog8llil.apps.googleusercontent.com.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main/client_secret_220360779726-9udn1qo31ie4096mbtg4k0hojog8llil.apps.googleusercontent.com.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -74,16 +85,6 @@
                 <element signature="e#2456#3149#0" expanded="false" />
                 <element signature="e#3187#3598#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="client_secret_220360779726-9udn1qo31ie4096mbtg4k0hojog8llil.apps.googleusercontent.com.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main/client_secret_220360779726-9udn1qo31ie4096mbtg4k0hojog8llil.apps.googleusercontent.com.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -217,8 +218,8 @@
       <recent name="$PROJECT_DIR$/main" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/config" />
       <recent name="$PROJECT_DIR$/main" />
+      <recent name="$PROJECT_DIR$/config" />
     </key>
   </component>
   <component name="RunManager" selected="Python.anotherone">
@@ -424,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1493484858412</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="move back client secret file to main">
+      <created>1493831633135</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1493831633135</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView">
@@ -502,14 +510,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/client_secret_220360779726-9udn1qo31ie4096mbtg4k0hojog8llil.apps.googleusercontent.com.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/helper/googlehelper.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
@@ -548,6 +548,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/client_secret_220360779726-9udn1qo31ie4096mbtg4k0hojog8llil.apps.googleusercontent.com.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
           <folding />
         </state>
       </provider>
