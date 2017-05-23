@@ -32,3 +32,11 @@ To clone the sample application so that you have a local version of the code tha
 $ git clone https://github.com/heroku/python-getting-started.git
 $ cd python-getting-started
 You now have a functioning git repository that contains a simple application as well as a requirements.txt file, which is used by Python’s dependency manager, Pip.
+
+revert git file
+https://gist.github.com/paulbooker/1650111
+
+troubles :
+    from apiclient import discovery
+ImportError: cannot import name 'discovery'
+solution: just use googleapiclient instead apiclient

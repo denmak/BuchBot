@@ -117,6 +117,6 @@ def convert_msg_to_sheet(message):
 	sheet_row.append(body[0]) #placeholder for command
 	sheet_row.append(body[1]) #placeholder for product name
 	sheet_row.append(float(body[2])) #placeholder for cost
-	sheet_row.append(' '.join(body[3:])) #placeholder for comment
+	if len(body)>2:sheet_row.append(' '.join(body[3:])) #placeholder for comment
 
 	return sheet_row
