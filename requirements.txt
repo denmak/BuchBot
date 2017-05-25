@@ -1,6 +1,4 @@
-abstract-rendering==0.5.1
-alabaster==0.7.7
-anaconda-client==1.2.2
+
 apiclient==1.0.3
 appnope==0.1.0
 appscript==1.0.1
