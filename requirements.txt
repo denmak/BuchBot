@@ -138,5 +138,4 @@ Werkzeug==0.11.3
 wrapt==1.10.8
 xlrd==0.9.4
 XlsxWriter==0.8.4
-xlwings==0.6.4
-xlwt==1.0.0
+
