@@ -75,8 +75,6 @@ openpyxl==2.3.2
 orator==0.9.3
 pandas==0.17.1
 pandasql==0.7.3
-path.py==0.0.0
-pathspec==0.5.0
 patsy==0.4.0
 pbr==1.10.0
 pendulum==0.6.5
