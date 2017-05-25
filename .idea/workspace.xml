@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d78d62ee-701d-4316-94d0-8aa11745b244" name="Default" comment="requirements.txt was added">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/runtime.txt" />
+    <list default="true" id="d78d62ee-701d-4316-94d0-8aa11745b244" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -527,7 +526,14 @@
       <option name="project" value="LOCAL" />
       <updated>1495732256332</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="requirements.txt was added">
+      <created>1495733011877</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1495733011877</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView">
