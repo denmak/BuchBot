@@ -15,8 +15,6 @@ blinker==1.4
 bokeh==0.12.3
 boto==2.39.0
 botocore==1.5.54
-Bottlechest==0.7.1
-Bottleneck==1.0.0
 cement==2.8.2
 cffi==1.2.1
 chardet==2.3.0
