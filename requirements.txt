@@ -36,7 +36,6 @@ docker-py==1.7.2
 dockerpty==0.4.1
 docopt==0.6.2
 docutils==0.12
-dynd===f641248
 et-xmlfile==1.0.1
 fake-factory==0.7.2
 fastcache==1.0.2
