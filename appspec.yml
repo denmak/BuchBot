@@ -11,7 +11,7 @@ files:
     destination: /var/www/html/docs
   - source: helper/botcommand.py
     destination: /var/www/html/helper
-  - source: helper/RashodAPI.py
+  - source: helper/botcommandRashodAPI.py
     destination: /var/www/html/helper
   - source: helper/googlehelper.py
     destination: /var/www/html/helper
