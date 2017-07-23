@@ -3,6 +3,10 @@ os: linux
 files:
   - source: /index.html
     destination: /var/www/html/
+  - source: config/__init__.py
+    destination: /var/www/html/
+  - source: config/config.py
+    destination: /var/www/html/
 hooks:
   BeforeInstall:
     - location: scripts/install_dependencies
