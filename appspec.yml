@@ -7,6 +7,18 @@ files:
     destination: /var/www/html/config
   - source: config/config.py
     destination: /var/www/html/config
+  - source: docs/deployment.txt
+    destination: /var/www/html/docs
+  - source: helper/botcommand.py
+    destination: /var/www/html/helper
+  - source: helper/RashodAPI.py
+    destination: /var/www/html/helper
+  - source: helper/googlehelper.py
+    destination: /var/www/html/helper
+  - source: main/application.py
+    destination: /var/www/html/main
+  - source: main/bclient_secret_220360779726-9udn1qo31ie4096mbtg4k0hojog8llil.apps.googleusercontent.com.json
+    destination: /var/www/html/main
 hooks:
   BeforeInstall:
     - location: scripts/install_dependencies
