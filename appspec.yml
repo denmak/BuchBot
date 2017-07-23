@@ -4,9 +4,9 @@ files:
   - source: /index.html
     destination: /var/www/html/
   - source: config/__init__.py
-    destination: /var/www/html/
+    destination: /var/www/html/config
   - source: config/config.py
-    destination: /var/www/html/
+    destination: /var/www/html/config
 hooks:
   BeforeInstall:
     - location: scripts/install_dependencies
