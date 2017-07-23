@@ -17,7 +17,7 @@ files:
     destination: /var/www/html/helper
   - source: main/application.py
     destination: /var/www/html/main
-  - source: main/bclient_secret_220360779726-9udn1qo31ie4096mbtg4k0hojog8llil.apps.googleusercontent.com.json
+  - source: main/client_secret_220360779726-9udn1qo31ie4096mbtg4k0hojog8llil.apps.googleusercontent.com.json
     destination: /var/www/html/main
 hooks:
   BeforeInstall:
