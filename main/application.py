@@ -1,10 +1,13 @@
 # -*- coding: utf-8 -*-
 #from __future__ import print_function
 import telebot
-
+import sys
 import os
 __path__=[os.path.dirname(os.path.abspath("'/var/www/html/main'"))]
 print(__path__)
+
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+print(sys.path)
 
 from config import config as cf
 import  helper.botcommand as bc
