@@ -2,6 +2,9 @@
 #from __future__ import print_function
 import telebot
 
+import os
+__path__=[os.path.dirname(os.path.abspath(__file__))]
+
 import config.config as cf
 import  helper.botcommand as bc
 
