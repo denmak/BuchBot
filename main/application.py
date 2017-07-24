@@ -6,7 +6,7 @@ import os
 __path__=[os.path.dirname(os.path.abspath(__file__))]
 print(__path__)
 
-import config.config as cf
+import BuchBot.config.config as cf
 import  helper.botcommand as bc
 
 
