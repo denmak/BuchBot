@@ -3,7 +3,7 @@
 import telebot
 
 import os
-__path__=[os.path.dirname(os.path.abspath(__file__))]
+__path__=[os.path.dirname(os.path.abspath("'/var/www/html/main'"))]
 print(__path__)
 
 from config import config as cf
