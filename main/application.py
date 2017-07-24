@@ -10,7 +10,7 @@ sys.path.append(os.path.dirname(os.path.abspath("/var/www/html/config")))
 print(sys.path)
 
 from config import config as cf
-import  helper.botcommand as bc
+from helper import botcommand as bc
 
 
 def errhandler (message):
