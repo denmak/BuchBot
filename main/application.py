@@ -6,7 +6,7 @@ import os
 __path__=[os.path.dirname(os.path.abspath("/var/www/html/config"))]
 print(__path__)
 
-sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+sys.path.append(os.path.dirname(os.path.abspath("/var/www/html/config")))
 print(sys.path)
 
 from config import config as cf
