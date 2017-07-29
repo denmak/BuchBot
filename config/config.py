@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 exampleconf='this is an example'
 token = '327670438:AAH30zDGavR6-Ht3u-lMOFR6F3xqJnSS2IU'
-email = 'denmak0383@gmail.com'
-password = '1592648@gmail.com'
+email ='@gmail.com'
+password = '159'
 weight = '180'
 # Find this value in the url with 'key=XXX' and copy XXX below
 spreadsheet_key = '1-iKub0vWhJ4RTIyiKJ-F_J8FdEVFovilD258XJHURRw'
