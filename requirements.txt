@@ -83,7 +83,7 @@ pexpect==3.3
 pickleshare==0.5
 Pillow==3.1.0
 ply==3.8
-psutil==3.4.2
+psutil==5.6.6
 ptyprocess==0.5
 py==1.4.31
 pyaml==16.11.4
