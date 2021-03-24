@@ -109,7 +109,7 @@ qtconsole==4.1.1
 redis==2.10.3
 requests==2.7.0
 rope-py3k==0.9.4.post1
-rsa==3.4.2
+rsa==4.1
 selenium==3.0.1
 semantic-version==2.5.0
 simplegeneric==0.8.1
