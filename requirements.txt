@@ -8,7 +8,7 @@ appscript==1.0.1
 argcomplete==1.0.0
 astropy==1.1.1
 awsebcli==3.10.1
-Babel==2.2.0
+Babel==2.9.1
 backpack==0.1
 beautifulsoup4==4.5.1
 bitarray==0.8.1
