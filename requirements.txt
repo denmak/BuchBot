@@ -47,7 +47,7 @@ h5py==2.5.0
 idna==2.0
 inflection==0.3.1
 ipykernel==4.2.2
-ipython==4.0.3
+ipython==7.16.3
 ipython-genutils==0.1.0
 ipywidgets==4.1.1
 itsdangerous==0.24
